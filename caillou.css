@@ -1,0 +1,27 @@
+html {
+  padding-left: 450px;
+  padding-right: 450px;
+  border: blue 10px solid;
+  line-height: 1.5em;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-family: Cooper Black;
+}
+
+h2 {
+  font-family: Cooper Black;
+}
+
+html {
+  background-color: #9cc7e8;
+}
+
+h5 {
+  color: #363f54;
+  font-family: Arial;
+}
